@@ -1,4 +1,4 @@
-#  
+#  bedwars instant Scripts offers the most advanced bedwars Script, with god mode and auto-farm. Perfect for dominating any match.
 
 
 
